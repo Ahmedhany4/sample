@@ -1,0 +1,112 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.sec1 {
+  display: inline;
+  }
+.sec1 img {
+  width: 350px;
+  width: 49%;
+  height: 450px;
+  display: inline;
+}
+h2 {
+  padding-left:20px ;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.sec2 p {
+  padding-left:20px ;
+}
+.sec2 {
+  display: inline-block;
+  width: 49%;
+}
+button {
+  margin-left: 100px;
+  border: none;
+  width: 150px;
+  padding: 15px;
+  font-weight: bold;
+  color: white;
+  border-radius: 6px;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: linear-gradient(#8a2be2,#a5108cbb);
+}
+div p {
+  padding: 5px;
+  line-height: 1.6;
+}
+.loge1 p ,
+.loge2 p ,
+.loge3 p ,
+.loge4 p {
+  padding: 0 10px 10px 10px;/* top right bottom left*/
+  line-height: 1.8;
+  font-size: 20px;
+  text-align: center;
+}
+.loge1 {
+
+  background-color: #EEE;
+  width: 24%;
+  display: inline-block;
+  margin-left:0px ;
+  
+}
+.loge2 {
+  background-color: #EEE;
+  width: 24%;
+  display: inline-block;
+  
+}
+.loge3 {
+  background-color: #EEE;
+  width: 24%;
+  display: inline-block;
+  
+}
+.loge4 {
+  background-color: #EEE;
+  width: 24%;
+  display: inline-block;
+
+}
+.loge5 {
+  width: 24%;
+
+}
+.loge1 img {
+  padding-left: 45%;
+  width: 50px;
+  height: 50px;
+}
+.loge2 img {
+  padding-left: 45%;
+
+  width: 50px;
+  height: 50px;
+}
+.loge3 img {
+  padding-left: 45%;
+
+  width: 50px;
+  height: 50px;
+}
+.loge4 img {
+  padding-left: 49%;
+  width: 50px;
+  height:50px;
+}
+.img {
+  padding-top:29px ;
+}
+.loge1 h2,
+.loge2 h2,
+.loge3 h2,
+.loge4 h2{
+text-align: center;
+line-height: 1.6;
+padding: 5px;
+}
